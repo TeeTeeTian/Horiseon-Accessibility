@@ -31,7 +31,7 @@ N/A
 
 Navigate to the header and select the section you would like to jump to. Please see a screen shot below:
 
-![alt text](./starter/assets/images/Screenshot.png)
+![alt text](/assets/images/Screenshot.png)
 
 
 ### Credits
