@@ -3,31 +3,25 @@ Accessibility codebase for Horiseon
 
 ## Description
 
-My motivation for this project
+My motivation is to gain more experience while working on this project. I can use this knowledge to go towards my future portfolio. 
 
--I have amended a codebase to ensure that it follows accessibility standards and that it is optimized for search engines.
+-I have amended the codebase to ensure that it follows accessibility standards and that it is optimized for search engines.
 
--I built this project to ensure that all users with all abilities have the full experience while accessing the website. I wanted to ensure that this site is as easy to use as possible. 
+-I built this project to ensure that users with all abilities have the full experience while accessing the website. I wanted to ensure that this site is as easy to use as possible. 
 
--I fixed a broken link in the navigation bar. This allowed users to navigate to the section of the page they are interested in. 
+-I fixed a broken link in the navigation bar. This allowed users to jump to the section of the page they are interested in. 
 
--I fixed the header to the page but i notices that this affects the viewing when using the navigation links, so i removed this after.
+-I fixed the header to the page but I noticed that this affects the view of the selected section when using the navigation links, so i removed this after.
 
-- I tested ALT by using a screen reader
+- I tested all atl attributes by using a screen reader.
 
-This project dolved many issues and allowed users to 
+This project solved many issues and allowed users to jump to the section they are looking for. The changes I made that affect the SEO will allow users to find the site easier from search engines. 
 
-I learnt that 
+I learnt that code becomes clearer when using semantic elements and that you can group CSS classes to make the code easier to read. 
 
 
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
+## Link to deployed application
+Please view my project below
 
 ## Installation
 
@@ -35,11 +29,9 @@ N/A
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+*Navigate to the header and select the section you would like to jump to. Please see a screen shot below:
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-[alt text](assets/images/screenshot.png)
+![alt text](starter/assets/images/screenshot.png)
 
 
 ## Credits
