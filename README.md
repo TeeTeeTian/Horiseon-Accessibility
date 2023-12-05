@@ -46,6 +46,8 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 https://www.youtube.com/watch?v=eDmY17-GuLo
 
+https://www.greengeeks.com/blog/html-tags-for-seo/
+
 
 ## License
 
