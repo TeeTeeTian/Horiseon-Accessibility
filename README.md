@@ -1,7 +1,7 @@
 # Horiseon-Accessibility
 Accessibility codebase for Horiseon
 
-## Description
+### Description
 
 My motivation is to gain more experience while working on this project. I can use this knowledge to go towards my future portfolio. 
 
@@ -13,39 +13,39 @@ My motivation is to gain more experience while working on this project. I can us
 
 -I fixed the header to the page but I noticed that this affects the view of the selected section when using the navigation links, so i removed this after.
 
-- I tested all atl attributes by using a screen reader.
+-I tested all atl attributes by using a screen reader.
 
 This project solved many issues and allowed users to jump to the section they are looking for. The changes I made that affect the SEO will allow users to find the site easier from search engines. 
 
 I learnt that code becomes clearer when using semantic elements and that you can group CSS classes to make the code easier to read. 
 
 
-## Link to deployed application
-Please view my project below
+### Link to deployed application
 
-## Installation
+
+### Installation
 
 N/A
 
-## Usage
+### Usage
 
-*Navigate to the header and select the section you would like to jump to. Please see a screen shot below:
+Navigate to the header and select the section you would like to jump to. Please see a screen shot below:
 
-![alt text](starter/assets/images/screenshot.png)
+![alt text](./starter/assets/images/screenshot.png)
 
 
-## Credits
+### Credits
 
 https://www.youtube.com/watch?v=eDmY17-GuLo
 
 https://www.greengeeks.com/blog/html-tags-for-seo/
 
 
-## License
+### License
 
 MIT License
 
-Copyright (c) [2023] [TeannieBinns]
+Copyright (c) [2023] [Teannie Binns]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
