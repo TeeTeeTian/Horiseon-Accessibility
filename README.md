@@ -21,7 +21,7 @@ I learnt that code becomes clearer when using semantic elements and that you can
 
 
 ### Link to deployed application
-
+https://teeteetian.github.io/Horiseon-Accessibility/
 
 ### Installation
 
