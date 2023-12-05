@@ -13,7 +13,7 @@ My motivation for this project
 
 -I fixed the header to the page but i notices that this affects the viewing when using the navigation links, so i removed this after.
 
--
+- I tested ALT by using a screen reader
 
 This project dolved many issues and allowed users to 
 
